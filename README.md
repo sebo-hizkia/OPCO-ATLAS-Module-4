@@ -1,5 +1,5 @@
 # OPCO-ATLAS-Module-4-Brief-1
-M2 - brief 2 - Analyse Ethique et nettoyage complet d'un Jeu de Données
+M4 - Brief 1 - Benchmark de modèles d'IA pour une tâche de régression
 
 ## Notebook
 Pour ce projet j'ai utilisé un Notebook pour consigner mon travail. Pour cela j'ai utilisé JupyterLab.
